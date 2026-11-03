@@ -1,0 +1,8 @@
+Category,Video,Total_Frames,Frames_With_Person,Frames_With_Track_ID,Track_Coverage_Percent,Unique_Track_IDs,ID_Change_Events_Proxy
+entering,entering_01.mp4,60,26,24,40.0,1,0
+entering,entering_02.mp4,37,10,9,24.32,1,0
+entering,entering_04.mp4,50,9,8,16.0,1,0
+entering,entering_09.mp4,32,25,24,75.0,1,0
+leaving,leaving_04.mp4,38,30,30,78.95,1,0
+leaving,leaving_07.mp4,73,44,39,53.42,4,0
+leaving,leaving_09.mp4,49,49,49,100.0,1,0

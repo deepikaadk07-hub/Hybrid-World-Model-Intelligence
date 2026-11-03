@@ -1,0 +1,5 @@
+folder_label,Videos,Total_Frames,Avg_Person_Detection,Avg_Inside_Zone,Avg_Inference_Time
+ENTERING,4,179,50.76,24.61,137.77
+LEAVING,3,160,90.41,38.39,152.52
+OUTSIDE,10,1607,75.2,0.0,135.65
+STAYING_INSIDE,9,1631,97.87,97.87,148.39

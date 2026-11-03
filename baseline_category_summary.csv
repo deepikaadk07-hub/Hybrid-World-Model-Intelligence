@@ -1,0 +1,5 @@
+category,Videos,Total_Frames,Avg_Detection_Percent,Avg_Inside_Zone_Percent,Avg_Processing_Time_ms,Avg_FPS,Avg_Unique_Track_IDs
+ENTERING,4,179,58.24,23.82,149.42,6.78,1.0
+LEAVING,3,160,92.24,37.05,141.79,7.07,2.0
+OUTSIDE,10,1607,78.52,0.0,146.95,6.9,1.9
+STAYING_INSIDE,9,1631,99.15,98.69,135.21,7.4,1.22
