@@ -31,11 +31,18 @@ Run the application:
 
 Press Q to quit the application.
 
-## Dataset
+## Dataset Details
 
-COCO (Common Objects in Context)
+Dataset: COCO 2017 Validation Dataset
 
-Official website: https://cocodataset.org/
+Subset Used: 100 selected images
+
+Dataset Structure:
+- datasets/COCO/images/val2017/
+
+Official Dataset: https://cocodataset.org/
+
+The project uses a selected subset of COCO 2017 validation images for object detection and evaluation.
 
 ## Project Features
 
